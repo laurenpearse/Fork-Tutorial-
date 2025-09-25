@@ -4,4 +4,4 @@ def say_hi(name="there"):
 
 if __name__ == "__main__":
     say_hi()          # prints: Hi, there!
-    say_hi("Lauren Pearse")  # prints: Hi, Lauren!
+    say_hi("Emma")  # prints: Hi, Lauren!
